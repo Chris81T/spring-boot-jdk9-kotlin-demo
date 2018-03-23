@@ -1,3 +1,6 @@
+# UPDATE - Is fixed
+Check the post at https://stackoverflow.com/questions/49454359/spring-boot-2-kotlin-jdk9-caused-by-java-lang-classnotfoundexception-jav
+
 # spring-boot-jdk9-kotlin-demo
 A sample project, that will fail with JDK 9.0.4 on Arch Linux
 
